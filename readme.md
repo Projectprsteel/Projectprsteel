@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-![<img alt="Twitter" src="https://img.shields.io/twitter/url?color=%231DA1F2&label=ProjectPRSteel&logo=twitter&logoColor=%231DA1F2&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fprojectprsteel">]
+![<img alt="Twitter"] src="https://img.shields.io/twitter/url?color=%231DA1F2&label=ProjectPRSteel&logo=twitter&logoColor=%231DA1F2&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fprojectprsteel">
 ![<img alt="Linkedin" src="https://img.shields.io/twitter/url?color=%230077B5&label=Linkedin&logo=Linkedin&logoColor=%230077B5&style=for-the-badge&url=https%3A%2F%2Flinkedin.com%2Fin%2Flifeonmobile">]
 ![<img alt="Instagram" src="https://img.shields.io/twitter/url?color=%23E4405F&label=Instagram&logo=Instagram&logoColor=%23E4405F&style=for-the-badge&url=https%3A%2F%2Finstagram.com%2Fprojectprsteel">]
 
