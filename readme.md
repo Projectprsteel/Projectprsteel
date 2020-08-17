@@ -16,16 +16,15 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Atom.io" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/atom.svg" />][atomio]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />][javascript]
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />][react]
+[<img align="left" alt="Atom.io" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />][atomio]
 [<img align="left" alt="Postman" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postman.svg" />][postman]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
+
 
 
 <br />
 
-
-<img align="left" alt="ProjectPRSteel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Projectprsteel&show_icons=true&hide_border=true" />
 
 <br />
 <br />
