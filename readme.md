@@ -13,6 +13,8 @@
 ![Instagram](https://img.shields.io/twitter/url?color=%23E4405F&label=Instagram&logo=Instagram&logoColor=%23E4405F&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fprojectprsteel%2F)
 ![Linkedin](https://img.shields.io/twitter/url?color=%230077B5&label=Linkedin&logo=Linkedin&logoColor=%230077B5&style=for-the-badge&url=https%3A%2F%2Flinkedin.com%2Fin%2Flifeonmobile)
 
+![Twitter](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Fwww.twitter.com%2Fprojectprsteel)
+
 
 <br />
 
