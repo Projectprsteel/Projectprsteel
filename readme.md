@@ -9,7 +9,7 @@
 ### Connect with me:
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/projectprsteel?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fprojectprsteel&screen_name=projectprsteel)
+[![Twitter Follow](https://img.shields.io/twitter/follow/projectprsteel?color=1DA1F2&logo=twitter&style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fprojectprsteel&screen_name=projectprsteel)
 
 
 <br />
