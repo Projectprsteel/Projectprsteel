@@ -9,11 +9,11 @@
 ### Connect with me:
 
 
-![Twitter URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=Twitter&logo=Twitter&logoColor=%231DA1F2&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fprojectprsteel)
+[![Twitter Follow](https://img.shields.io/twitter/follow/projectprsteel?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fprojectprsteel&screen_name=projectprsteel)
+
 ![Instagram](https://img.shields.io/twitter/url?color=%23E4405F&label=Instagram&logo=Instagram&logoColor=%23E4405F&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fprojectprsteel%2F)
 ![Linkedin](https://img.shields.io/twitter/url?color=%230077B5&label=Linkedin&logo=Linkedin&logoColor=%230077B5&style=for-the-badge&url=https%3A%2F%2Flinkedin.com%2Fin%2Flifeonmobile)
 
-![Twitter](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https://twitter.com/projectprsteel)
 
 
 <br />
