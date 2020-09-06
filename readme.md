@@ -11,7 +11,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/projectprsteel?color=1DA1F2&logo=twitter&style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fprojectprsteel&screen_name=projectprsteel)
 
-[![Instagram](https://img.shields.io/twitter/url?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/projectprsteel?original_referer=https%3A%2F%2Fwww.instagram.com%2Fprojectprsteel%2F)
+[![Instagram](https://img.shields.io/twitter/url?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/projectprsteel)
 
 
 <br />
