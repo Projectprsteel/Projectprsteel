@@ -1,15 +1,15 @@
 ### Hello, I'm Paul and welcome to my github
 
-## I'm a Husband to a teacher, Father dancer, love to develop and wish I could do it more!
-- I’m currently working on IoT Asset/Fleet Solutions!
-- I’m currently learning React
-- My 2020 Goals: Focus more on development and new Languages and not getting COVID
-- More Interests: Love to cook
+## I'm a Husband to a teacher, Father to a dancer, love to develop and wish I could do it more!
+- I’m currently working on IoT Solutions as a Solutions Engineer
+- Getting back into development...slowly
+- My 2022 Goals: Focus more on HTML and CSS development
+- More Interests: Love cooking
 
 ### Connect with me:
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/projectprsteel?color=1DA1F2&logo=twitter&style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fprojectprsteel&screen_name=projectprsteel)
+[![Twitter Follow](https://img.shields.io/twitter/follow/steelaugmented?color=1DA1F2&logo=twitter&style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsteelaugmented&screen_name=steelaugmented)
 
 
 <br />
