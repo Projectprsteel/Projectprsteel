@@ -1,6 +1,6 @@
 ### Hello, I'm Paul and welcome to my github
 
-## I'm a Husband to a teacher, Father to a dancer, love to develop and wish I could do it more!
+## I'm a husband to a teacher, father to a dancer and love to develop. Wish I could do it more!
 - I’m currently working on IoT Solutions as a Solutions Engineer
 - Getting back into development...slowly
 - My 2022 Goals: Focus more on HTML and CSS development
