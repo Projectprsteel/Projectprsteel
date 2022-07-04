@@ -16,7 +16,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Atom.io" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />][atomio]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />][vscode]
 [<img align="left" alt="Postman" width="26px" src="https://iconape.com/wp-content/files/ja/89479/png/postman.png" />][postman]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
 <img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -29,7 +29,7 @@
 <br />
 <br />
 
-[atomio]: https://atom.io
+[vscode]: https://code.visualstudio.com
 [javascript]: https://www.javascript.com
 [postman]: https://www.postman.com
 [react]: https://reactjs.org
