@@ -17,7 +17,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Atom.io" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />][atomio]
-[<img align="left" alt="Postman" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postman.svg" />][postman]
+[<img align="left" alt="Postman" width="26px" src="https://iconape.com/wp-content/files/ja/89479/png/postman.png" />][postman]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
 <img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -25,7 +25,6 @@
 
 
 <br />
-
 
 <br />
 <br />
