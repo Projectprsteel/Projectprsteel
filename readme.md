@@ -9,7 +9,7 @@
 ### Connect with me:
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/steelaugmented?color=1DA1F2&logo=twitter&style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsteelaugmented&screen_name=steelaugmented)
+Yeah, I'm off Socail Media... I have better things to do
 
 
 <br />
