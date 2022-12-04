@@ -3,7 +3,7 @@
 ## I'm a husband to a teacher, father to a dancer and love to develop. Wish I could do it more!
 - I’m currently working on IoT Solutions as a Solutions Engineer
 - Getting back into development...slowly
-- My 2022 Goals: Focus more on HTML and CSS development
+- My 2023 Goals: Finish some certifications: 5G, Cradlepoint and Azure
 - More Interests: Love cooking
 
 ### Connect with me:
