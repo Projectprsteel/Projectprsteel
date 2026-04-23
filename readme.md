@@ -1,9 +1,8 @@
 ### Hello, I'm Paul and welcome to my github
 
 ## I'm a husband to a teacher, father to a dancer and love to develop. Wish I could do it more!
-- I’m currently working on IoT Solutions as a Solutions Engineer
-- Getting back into development...slowly
-- My 2023 Goals: Finish some certifications: 5G, Cradlepoint and Azure
+- I’m currently working at AT&T as a Solutions Engineer for APEX
+- Certifications: 5G, Cradlepoint now Ericsson and working on Azure
 - More Interests: Love cooking
 
 ### Connect with me:
